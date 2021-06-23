@@ -24,7 +24,7 @@ public class AppController {
 	@ApiOperation("This is the hello world api")
 	@GetMapping("/")
 	public String hello() { 
-		return "Hello World !Shyam!Preetha";
+		return "Hello World !!";
 	}
 
 
