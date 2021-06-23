@@ -1,1 +1,1 @@
-package org.codejudge.sb;
+package org.codejudge.sb.controller;
